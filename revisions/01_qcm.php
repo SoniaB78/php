@@ -15,6 +15,13 @@
     // D. var_dump
         // Affiche les information structurées d'une variable, y compris son type et sa valeur. Les tableaux er les objets sont explorée récursivement, avec des indentation, pour mettre valeur leur structure
 
+        /* 
+            "Echo" sert à afficher du texte, formaté en HTML ou non. Il n'utilise pas de parenthèses, ce qui aide à faire un code propre.
+
+            "Print", sert à faire la même chose, mais est un peu plus vieux et moins utilisé. Il est donc conseillé de ne pas l'utiliser.
+
+            "print_r", quand à lui, écrit une information "lisible" à propos d'une variable ambigüe, comme un array ou une requête.
+        */
 
 // 2. Qu'est ce qu'une variable ?
 
